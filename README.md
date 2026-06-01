@@ -1,1 +1,1 @@
-Machine Learning Assignments | Data Science | Pandas | Numpy
+Machine Learning Assignments | Data Science | Pandas | Numpy | Scikit Learn
